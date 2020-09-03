@@ -10,6 +10,6 @@ Link Trello : https://trello.com/b/fHpibqMt/project-e-commerce
 ######
 Link GoogleDocs : https://docs.google.com/document/d/1UCpwIy90fEMq65A2SlUwKm9PyFG_JhS3nTWTOe0WMZw/edit
 ######
-Link Lucid Chart :
+Link Lucid Chart : https://www.figma.com/file/hGciSV7t5ssQ1ZfwAbXLiI/Untitled?node-id=0%3A1
 ######
 Link Figma : https://www.figma.com/file/hGciSV7t5ssQ1ZfwAbXLiI/Untitled?node-id=0%3A1
