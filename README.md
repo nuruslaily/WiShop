@@ -1,5 +1,5 @@
 # Tugas Proyek 2 
-## Nama Kelompok - TI 3F :
+## Nama Kelompok 7 - TI3F :
 1. Dimahyanti Dwi Lestariningsih
 2. Livia Yurike Khuril Maula
 3. Nurus Laily Aprilia
