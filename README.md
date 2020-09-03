@@ -1,4 +1,3 @@
-# WiShop
 # Tugas Proyek 2 
 ## Nama Kelompok - TI 3F :
 1. Dimahyanti Dwi Lestariningsih
